@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DemoOracleBridge"
+  id="myeclipse.1439209743181"
+  context-root="/DemoOracleBridge"
+  j2ee-spec="5.0"
+  archive="DemoOracleBridge.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
